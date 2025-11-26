@@ -4,7 +4,7 @@
 -- Submitted to Prof. Ashok K Harnal
 
 
-CREATE DATABASE IF NOT EXISTS tcs_emp_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+CREATE DATABASE IF NOT EXISTS tcs_emp_db;
 USE tcs_emp_db;
 
 
