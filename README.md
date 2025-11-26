@@ -69,17 +69,17 @@ TCS Employee & Operations Management System.
 
 Included modules:
 
-✔ Employee master data  
-✔ Departments, roles, skills  
-✔ Projects, assignments & contracts  
-✔ Payroll, expenses, travel, performance reviews  
-✔ Recruitment lifecycle (candidates → interviews → offers)  
-✔ IT helpdesk & SLA tracking  
-✔ Procurement, vendors, inventory & asset management  
-✔ Billing (invoices + line items)  
-✔ Training & employee development  
-✔ Security (user accounts, roles, audit logs)  
-✔ Archive tables and history logs  
+Employee master data  
+Departments, roles, skills  
+Projects, assignments & contracts  
+Payroll, expenses, travel, performance reviews  
+Recruitment lifecycle (candidates → interviews → offers)  
+IT helpdesk & SLA tracking  
+Procurement, vendors, inventory & asset management  
+Billing (invoices + line items)  
+Training & employee development  
+Security (user accounts, roles, audit logs)  
+Archive tables and history logs  
 
 The project demonstrates:
 - High normalization
