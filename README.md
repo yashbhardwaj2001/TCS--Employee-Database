@@ -88,6 +88,7 @@ The project demonstrates:
 - Practical real-world relevance (TCS/IT industry)
 
 This satisfies the evaluation parameters:
+
 A. Complexity of organization  
 B. Total entities in the design  
 C. Depth of attributes per table  
