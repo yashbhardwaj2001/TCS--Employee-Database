@@ -99,9 +99,7 @@ STUDENT DETAILS
 
 
 Group 2  
-Yash Bhardwaj (341169)
-Aviral Bansal (341148)    
-Shreya Wadhwa (341171)
+Yash Bhardwaj (341169)   Aviral Bansal (341148)    Shreya Wadhwa (341171)
 
 Presented to:
 Prof. Ashok K Harnal
