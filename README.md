@@ -24,7 +24,7 @@ Instructions:
 
 This will create the complete database structure along with basic initial data.
 
-=====================================================
+
 2. ADD ADDITIONAL DUMMY DATA
 =====================================================
 File: tcs_emp_db_dummy_data.sql
@@ -43,7 +43,7 @@ Instructions:
 
 This will populate the database with full-scale sample data for testing queries.
 
-=====================================================
+
 3. ER DIAGRAM REVIEW
 =====================================================
 File: tcs_emp_db_er_diagram.pdf
@@ -60,7 +60,7 @@ Use this diagram to verify:
 - Normalization level
 - Overall project complexity
 
-=====================================================
+
 ABOUT THE PROJECT
 =====================================================
 
