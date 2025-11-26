@@ -4,9 +4,9 @@ README - TCS Employee Database (DBMS Project)
 Thank you for reviewing this project. Please follow the steps below to
 execute and explore the database.
 
-=====================================================
+
 1. EXECUTE THE SCHEMA FILE FIRST
-=====================================================
+
 File: tcs_emp_db_schema.sql
 
 This file contains:
@@ -26,7 +26,7 @@ This will create the complete database structure along with basic initial data.
 
 
 2. ADD ADDITIONAL DUMMY DATA
-=====================================================
+
 File: tcs_emp_db_dummy_data.sql
 
 This file contains:
@@ -45,7 +45,7 @@ This will populate the database with full-scale sample data for testing queries.
 
 
 3. ER DIAGRAM REVIEW
-=====================================================
+
 File: tcs_emp_db_er_diagram.pdf
 
 This PDF contains:
@@ -62,7 +62,7 @@ Use this diagram to verify:
 
 
 ABOUT THE PROJECT
-=====================================================
+
 
 This DBMS project represents a full-scale 
 TCS Employee & Operations Management System.
@@ -93,9 +93,8 @@ B. Total entities in the design
 C. Depth of attributes per table  
 D. Memory-efficient datatype selection  
 
-=====================================================
+
 STUDENT DETAILS
-=====================================================
 
 
 Group 2  
